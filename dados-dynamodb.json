@@ -1,0 +1,32 @@
+[
+    {
+        "id": { "S": "001" },
+        "nome": { "S": "Bulbasaur" },
+        "tipo": { "S": "Grama/Venenoso" },
+        "foto_url": { "S": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" }
+    },
+    {
+        "id": { "S": "004" },
+        "nome": { "S": "Charmander" },
+        "tipo": { "S": "Fogo" },
+        "foto_url": { "S": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png" }
+    },
+    {
+        "id": { "S": "007" },
+        "nome": { "S": "Squirtle" },
+        "tipo": { "S": "Água" },
+        "foto_url": { "S": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png" }
+    },
+    {
+        "id": { "S": "025" },
+        "nome": { "S": "Pikachu" },
+        "tipo": { "S": "Elétrico" },
+        "foto_url": { "S": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" }
+    },
+    {
+        "id": { "S": "039" },
+        "nome": { "S": "Jigglypuff" },
+        "tipo": { "S": "Normal/Fada" },
+        "foto_url": { "S": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png" }
+    }
+]
